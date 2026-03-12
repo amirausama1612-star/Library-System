@@ -24,3 +24,6 @@ A simple and efficient **Library Management System** developed in **C++**. This 
 * **Reporting System:** Generates clear summaries of the library's current state.
 * **Data Storage:** Ensures all library records are saved safely even after closing the program.
 
+Team:
+Amira
+Afnan
